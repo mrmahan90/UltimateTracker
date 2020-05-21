@@ -34,7 +34,7 @@ class UltimateTracker():
             if selection==1:
                 self.setBudget()
             elif selection==2:
-                setRecipeCost()ds
+                setRecipeCost()
             elif selection==3:
                 bad()
             elif selection==4:
